@@ -219,6 +219,7 @@ uniroot(dlognormalF,c(1,100))</code></pre>
 ## $estim.prec
 ## [1] 6.103516e-05</code></pre>
 </div>
+<p>The results of the maximum likelihood of a simulation with 10 iteraction at different sample sizes.</p></div>
 <div id="simulation-sample-size" class="section level3">
 <h3>Simulation Sample Size</h3>
 <pre class="r"><code>#10 interaction sample size 3 Maximum Likelihood estimator for mu
@@ -317,7 +318,7 @@ print(root$root)
 ## [1] 38.30237
 ## [1] 35.40447
 ## [1] 37.83139</code></pre>
-<p>The results of the maximum likelihood of a simulation with 10 iteraction at different sample sizes where recorded also the error in the approximation to the true mean where recorded in the table shown in figure 1.</p>
+
 </div>
 <div id="conclusions" class="section level3">
 <h3>Conclusions</h3>
